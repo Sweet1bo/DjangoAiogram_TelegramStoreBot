@@ -1,0 +1,3 @@
+from .default import default_handlers_register
+from .catalog import catalog_handlers_register
+from .authorization import authorization_handlers_register
